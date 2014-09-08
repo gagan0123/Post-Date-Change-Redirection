@@ -23,3 +23,6 @@ It is just plug and play, activate it and it starts working, no configuration re
 
 #### 1.0 ####
 * Initial plugin
+
+#### 1.1 ####
+* Tested with WordPress 4.0
