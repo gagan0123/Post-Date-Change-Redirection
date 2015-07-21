@@ -29,3 +29,7 @@ It is just plug and play, activate it and it starts working, no configuration re
 
 = 1.1 =
 * Tested with WordPress 4.0
+
+= 2.0 =
+* Added feature to search old post slugs as well
+* Made sure that query variables, if any, are also passed along in the new URL
