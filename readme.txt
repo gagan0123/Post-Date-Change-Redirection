@@ -1,9 +1,9 @@
 === Post Date Change Redirection ===
 Contributors: gagan0123
 Tags: Post Date, Redirection, 301
-Requires at least: 3.5
-Tested up to: 4.0
-Stable tag: 1.1
+Requires at least: 1.5.1
+Tested up to: 4.4.2
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
